@@ -142,10 +142,10 @@ When both alpha and beta are greater than zero, we say the qubit is in a _superp
 ## Measuring a Qubit
 
 - "Looking" at a qubit collapses its state!
-- measuring $q = \ket{0}$:
+- Measuring $q = \ket{0}$:
 <!-- .element: class="fragment" -->
   - 100% chance of measuring 0, $q := \ket{0}$
-- measuring $q = \frac{1}{\sqrt{2}}\left(\ket{0} + \ket{1}\right)$:
+- Measuring $q = \frac{1}{\sqrt{2}}\left(\ket{0} + \ket{1}\right)$:
 <!-- .element: class="fragment" -->
   - $\left(\frac{1}{\sqrt{2}}\right)^2$ = 50% chance of measuring 0, $q := \ket{0}$
   - $\left(\frac{1}{\sqrt{2}}\right)^2$ = 50% chance of measuring 1, $q := \ket{1}$
@@ -531,4 +531,5 @@ operation IsConstant(N: Int, Uf: (Qubit[], Qubit) => Unit): Bool {
 - Quantum Katas <br />
   https://github.com/Microsoft/QuantumKatas
 
+<!-- .element: style="margin-bottom: 60px" -->
 https://ruippeixotog.net/intro-to-quantum-programming
