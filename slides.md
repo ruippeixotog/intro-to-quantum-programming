@@ -24,7 +24,7 @@ _At The Same Time!?"_
 
 Rui Gonçalves <!-- .element: style="margin-top: 120px" -->
 
-Apr -, 2019
+16 Aug 2019
 
 Note:
 
