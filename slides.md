@@ -108,7 +108,7 @@ $\begin{bmatrix}1 \\\ 0\end{bmatrix}$
 $\begin{bmatrix}0 \\\ 1\end{bmatrix}$
 
 $\begin{bmatrix}\frac{1}{\sqrt{2}} \\\ -\frac{1}{\sqrt{2}}\end{bmatrix}$
-$\begin{bmatrix}1 \\\ i\end{bmatrix}$
+$\begin{bmatrix}0 \\\ i\end{bmatrix}$
 <!-- .element: class="fragment" -->
 
 $\begin{bmatrix}\alpha \\\ \beta\end{bmatrix}, \abs{\alpha}^2 + \abs{\beta}^2 = 1$
