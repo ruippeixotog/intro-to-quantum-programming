@@ -254,7 +254,7 @@ Explain concept of universal set of gates
 
 ## CNOT Gate
 
-<iframe src='/_assets/quirk.html#circuit={"cols":[["•","X"]]}' width='100%' height='390px' />
+<iframe src='_assets/quirk.html#circuit={"cols":[["•","X"]]}' width='100%' height='390px' />
 
 Note:
 
@@ -293,7 +293,7 @@ operation MyOperation(q1: Qubit, q2: Qubit): Unit {
 
   e.g. $\frac{1}{\sqrt{8}}\left(\ket{000} + \ket{001} + ... + \ket{111}\right)$
 
-<iframe src='/_assets/quirk.html#circuit={"cols":[["…","…","…"]]}' width='100%' height='390px' />
+<iframe src='_assets/quirk.html#circuit={"cols":[["…","…","…"]]}' width='100%' height='390px' />
 
 
 ---
@@ -321,7 +321,7 @@ operation Prepare(qs: Qubit[]): Unit {
 
   e.g. $\frac{1}{\sqrt{2}}\left(\ket{0000} + \ket{1010}\right)$
 
-<iframe src='/_assets/quirk.html#circuit={"cols":[["…","…","…","…"]]}' width='100%' height='390px' />
+<iframe src='_assets/quirk.html#circuit={"cols":[["…","…","…","…"]]}' width='100%' height='390px' />
 
 
 ---
@@ -450,7 +450,7 @@ You can read more about this problem at https://en.wikipedia.org/wiki/Deutsch%E2
 
 - You only need to call the oracle once!
 
-<iframe src='/_assets/quirk.html#circuit={"cols":[["…","…","…","…"],[1,"•",1,"X"],["…","…","…","…"]]}' width='100%' height='390px' />
+<iframe src='_assets/quirk.html#circuit={"cols":[["…","…","…","…"],[1,"•",1,"X"],["…","…","…","…"]]}' width='100%' height='390px' />
 
 
 ---
@@ -506,7 +506,7 @@ operation IsConstant(N: Int, Uf: (Qubit[], Qubit) => Unit): Bool {
 
 ## Grover Search
 
-<iframe src='/_assets/quirk.html#circuit={"cols":[["X","X","X","X","X"],["H","H","H","H","H"],["Chance5"],["~vn6c"],["⊖","⊖","⊖","⊖","X"],["Chance5"],["~vn6c"],["⊖","⊖","⊖","⊖","X"],["Chance5"],["~vn6c"],["⊖","⊖","⊖","⊖","X"],["Chance5"],["~vn6c"],["⊖","⊖","⊖","⊖","X"],["Chance5"]],"gates":[{"id":"~vn6c","name":"Oracle","circuit":{"cols":[["Z","•","◦","•","•"]]}}]}' width='100%' height='450px' />
+<iframe src='_assets/quirk.html#circuit={"cols":[["X","X","X","X","X"],["H","H","H","H","H"],["Chance5"],["~vn6c"],["⊖","⊖","⊖","⊖","X"],["Chance5"],["~vn6c"],["⊖","⊖","⊖","⊖","X"],["Chance5"],["~vn6c"],["⊖","⊖","⊖","⊖","X"],["Chance5"],["~vn6c"],["⊖","⊖","⊖","⊖","X"],["Chance5"]],"gates":[{"id":"~vn6c","name":"Oracle","circuit":{"cols":[["Z","•","◦","•","•"]]}}]}' width='100%' height='450px' />
 
 
 ---
