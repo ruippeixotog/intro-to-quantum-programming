@@ -1,0 +1,28 @@
+.reveal section li {
+  margin: 20px 0;
+}
+
+.reveal section img {
+  margin: 20px 0;
+
+  background: none; 
+  border: none; 
+  box-shadow: none;
+}
+
+.reveal pre code {
+  max-height: 100%;
+}
+
+.reveal .left-aligned-slide {
+  text-align: left;
+}
+
+.reveal .left-aligned-slide h2 {
+  text-align: center;
+}
+
+.reveal .thank-you-slide {
+  text-align: left;
+  font-size: 0.7em;
+}
