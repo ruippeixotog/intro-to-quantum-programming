@@ -1,6 +1,6 @@
 # Quantum Programming: An Introduction
 
-This repository contains the slides of the presentation I gave at WhatsApp on April 2019 about some basic concepts of quantum programming.
+This repository contains the slides of the presentation I gave in August 2019 about some basic concepts of quantum programming.
 
 The presentation is available online [here](https://ruippeixotog.github.io/intro-to-quantum-programming).
 

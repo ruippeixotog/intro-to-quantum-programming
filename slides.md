@@ -64,8 +64,11 @@ TODO
 ## Quantum Hall Of Fame
 
 - Shor's algorithm for integer factorization
+
   $O\left(\left(\log{}N\right)^3\right)$
+
 - Grover's algorithm for searching in unordered lists
+
   $O\left(\sqrt{N}\right)$
 
 Note:
